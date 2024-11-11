@@ -1,0 +1,24 @@
+00:26:49.585 [main] INFO  api.test.UserTests - ********** Creating User **********
+00:26:54.275 [main] INFO  api.test.UserTests - ********** User Created **********
+00:26:54.297 [main] INFO  api.test.UserTests - ********** Reading User Info **********
+00:26:56.271 [main] INFO  api.test.UserTests - ********** User Info Displayed **********
+00:26:56.276 [main] INFO  api.test.UserTests - ********** Updating User **********
+00:26:58.613 [main] INFO  api.test.UserTests - ********** User Updated **********
+00:27:00.618 [main] INFO  api.test.UserTests - ********** Deleting User **********
+00:27:02.502 [main] INFO  api.test.UserTests - ********** User Deleted **********
+14:32:44.445 [main] INFO  api.test.UserTests - ********** Creating User **********
+14:32:50.684 [main] INFO  api.test.UserTests - ********** User Created **********
+14:32:50.706 [main] INFO  api.test.UserTests - ********** Reading User Info **********
+14:32:53.301 [main] INFO  api.test.UserTests - ********** User Info Displayed **********
+14:32:53.305 [main] INFO  api.test.UserTests - ********** Updating User **********
+14:32:57.636 [main] INFO  api.test.UserTests - ********** User Updated **********
+14:33:00.100 [main] INFO  api.test.UserTests - ********** Deleting User **********
+14:33:01.780 [main] INFO  api.test.UserTests - ********** User Deleted **********
+14:52:08.209 [main] INFO  api.test.UserTests - ********** Creating User **********
+14:52:17.348 [main] INFO  api.test.UserTests - ********** User Created **********
+14:52:17.395 [main] INFO  api.test.UserTests - ********** Reading User Info **********
+14:52:24.441 [main] INFO  api.test.UserTests - ********** User Info Displayed **********
+14:52:24.445 [main] INFO  api.test.UserTests - ********** Updating User **********
+14:52:32.112 [main] INFO  api.test.UserTests - ********** User Updated **********
+14:52:36.985 [main] INFO  api.test.UserTests - ********** Deleting User **********
+14:52:46.024 [main] INFO  api.test.UserTests - ********** User Deleted **********

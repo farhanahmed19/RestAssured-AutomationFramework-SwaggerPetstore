@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-11T00:26:47 PKT" name="SwaggerPetstoreSuite" finished-at="2024-11-11T00:27:02 PKT" duration-ms="14782">
+    <groups>
+    </groups>
+    <test started-at="2024-11-11T00:26:47 PKT" name="SwaggerPetstoreTest" finished-at="2024-11-11T00:27:02 PKT" duration-ms="14782">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTests@367ffa75]" started-at="2024-11-11T00:26:48 PKT" name="setup" finished-at="2024-11-11T00:26:49 PKT" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@367ffa75]" started-at="2024-11-11T00:26:49 PKT" name="testPostUser" finished-at="2024-11-11T00:26:54 PKT" duration-ms="4743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests@367ffa75]" started-at="2024-11-11T00:26:54 PKT" name="testGetUserByName" finished-at="2024-11-11T00:26:56 PKT" duration-ms="1975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTests@367ffa75]" started-at="2024-11-11T00:26:56 PKT" name="testUpdateUserByName" finished-at="2024-11-11T00:27:00 PKT" duration-ms="4339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByName -->
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.UserTests@367ffa75]" started-at="2024-11-11T00:27:00 PKT" name="testDeleteUserByName" finished-at="2024-11-11T00:27:02 PKT" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+      </class> <!-- api.test.UserTests -->
+    </test> <!-- SwaggerPetstoreTest -->
+  </suite> <!-- SwaggerPetstoreSuite -->
+</testng-results>
